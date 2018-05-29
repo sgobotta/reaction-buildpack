@@ -4,8 +4,6 @@
 # Heroku buildpack for Reaction Commerce
 #
 
-sudo su
-
 # fail fast.
 set -e
 # debug verbosely.
